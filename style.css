@@ -1,0 +1,16 @@
+#btn
+{
+    border-style:solid;
+    border-radius:90px;
+    border-width: 15px;
+    font-size: 40px;
+}
+#body
+{
+    background-color: orange;
+}
+#img
+{
+    height: 500px;
+    width: auto;
+}
